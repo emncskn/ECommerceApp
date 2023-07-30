@@ -1,0 +1,17 @@
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\bin\Release\net6.0\CommerceApp.Business.deps.json
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\bin\Release\net6.0\CommerceApp.Business.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\bin\Release\net6.0\CommerceApp.Business.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\bin\Release\net6.0\CommerceApp.DataAccess.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\bin\Release\net6.0\CommerceApp.Entities.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\bin\Release\net6.0\CommerceApp.DataAccess.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\bin\Release\net6.0\CommerceApp.Entities.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.csproj.AssemblyReference.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.csproj.CopyComplete
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\refint\CommerceApp.Business.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\CommerceApp.Business.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Business\obj\Release\net6.0\ref\CommerceApp.Business.dll

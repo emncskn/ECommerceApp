@@ -1,0 +1,17 @@
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\bin\Debug\net6.0\CommerceApp.DataAccess.deps.json
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\bin\Debug\net6.0\CommerceApp.DataAccess.runtimeconfig.json
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\bin\Debug\net6.0\CommerceApp.DataAccess.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\bin\Debug\net6.0\CommerceApp.DataAccess.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\bin\Debug\net6.0\CommerceApp.Entities.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\bin\Debug\net6.0\CommerceApp.Entities.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.csproj.CopyComplete
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\refint\CommerceApp.DataAccess.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\CommerceApp.DataAccess.genruntimeconfig.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.DataAccess\obj\Debug\net6.0\ref\CommerceApp.DataAccess.dll

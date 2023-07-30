@@ -1,0 +1,12 @@
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\bin\Debug\net6.0\CommerceApp.Entities.deps.json
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\bin\Debug\net6.0\CommerceApp.Entities.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\bin\Debug\net6.0\CommerceApp.Entities.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\CommerceApp.Entities.csproj.AssemblyReference.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\CommerceApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\CommerceApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\CommerceApp.Entities.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\CommerceApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\CommerceApp.Entities.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\refint\CommerceApp.Entities.dll
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\CommerceApp.Entities.pdb
+C:\Users\Hakan\source\repos\ECommerceApp\CommerceApp.Entities\obj\Debug\net6.0\ref\CommerceApp.Entities.dll
